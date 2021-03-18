@@ -35,3 +35,5 @@
 # build folders
 Debug/
 Release/
+.vs/
+
