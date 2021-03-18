@@ -32,6 +32,6 @@
 *.out
 *.app
 
-# bulid folders
+# build folders
 Debug/
 Release/
